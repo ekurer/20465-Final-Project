@@ -1,4 +1,5 @@
-This is the final task in the C course of the Open University, by @RoyGonen (https://tinyurl.com/3d3umkmf) and myself.
+This is the final task in the C course of the Open University, by [@RoyGonen](https://tinyurl.com/3d3umkmf)
+ and myself.
 
 This project is based on the double-pass assembler model.  
 
